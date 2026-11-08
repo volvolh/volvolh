@@ -21,7 +21,7 @@ I build reliable software and ML-powered systems — from .NET/SQL Server web ap
 **ML & AI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -81,8 +81,3 @@ Led a team building a smartphone-controlled robot for UV-C disinfection and medi
 - Deep Learning Specialization · Computer Vision Specialization — DeepLearning.AI
 - Generative AI with Large Language Models — AWS & DeepLearning.AI
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=volvolh&show_icons=true&hide_border=true" height="150" />
-</p>
