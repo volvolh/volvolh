@@ -58,7 +58,7 @@ I build reliable software and ML-powered systems — from .NET/SQL Server web ap
 
 ## 🚀 Featured Projects
 
-**🖼️ Multi-Scale Image Inpainting with Panoramic Reconstruction & Temporal Prediction**
+**🖼️ [Multi-Scale Image Inpainting with Panoramic Reconstruction & Temporal Prediction](https://github.com/volvolh/multiscale-inpainting-temporal-prediction)**
 *Python · PyTorch · OpenCV · Stable Diffusion · YOLOv5*
 Coarse-to-fine inpainting with image pyramids, seamless panoramas from non-overlapping images, and a temporal prediction pipeline (YOLOv5 + ResNet3D + Stable Diffusion) that visualizes forecast object trajectories.
 
